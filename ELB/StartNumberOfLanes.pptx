@@ -1,0 +1,12 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1"/>
+<title>Error 413 </title>
+</head>
+<body>
+<h2>HTTP ERROR: 413</h2>
+<p>Problem accessing /attach. Reason:
+<pre>    attachment is too large to download=^^attId=5%3a448%3a7 itemId=5:448 remote download failed due to EAS error 11 file too large</pre></p>
+<hr /><i><small>Powered by Jetty://</small></i>
+</body>
+</html>
